@@ -5,8 +5,11 @@ This project is to learn how to generate the following type of output image:
 
 Input Image :
 
+<img src="https://github.com/saranshkhulbe7/ContactSheetMaker/blob/master/DP4.gif" alt="Input Image" width="30%">
 
 
 
 
 Output Image :
+
+<img src="https://github.com/saranshkhulbe7/ContactSheetMaker/blob/master/FilterDP4.gif" alt="Output Image" width="50%">
