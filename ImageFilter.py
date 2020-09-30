@@ -4,7 +4,7 @@ from PIL import ImageFont
 from PIL import ImageDraw
 from IPython.display import display
 
-file_address = "DP4.jpeg"
+file_address = "DP4.gif"
 image = Image.open(file_address)
 image = image.convert("RGB")
 
