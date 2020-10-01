@@ -14,7 +14,7 @@ Input Image :
 
 <img src="https://github.com/saranshkhulbe7/ContactSheetMaker/blob/master/Mountains.jpeg" alt="Input Image" width="30%">
 
-Output Image :
+Output :
 
 <img src="https://github.com/saranshkhulbe7/ContactSheetMaker/blob/master/Mountains_Color_Variation.jpeg" alt="Output Image" width="75%">
 
@@ -24,6 +24,6 @@ Input Image :
 
 <img src="https://github.com/saranshkhulbe7/ContactSheetMaker/blob/master/Mountains.jpeg" alt="Input Image" width="30%">
 
-Output Image :
+Output :
 
 <img src="https://github.com/saranshkhulbe7/ContactSheetMaker/blob/master/Mountains_Brightness_Variation.jpeg" alt="Output Image" width="75%">
